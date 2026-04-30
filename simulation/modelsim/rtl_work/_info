@@ -1,0 +1,155 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/LABSTUFF/midterm/simulation/modelsim
+vbaseline_c5gx
+Z1 !s110 1777481399
+!i10b 1
+!s100 TL:Ec?n7gIeO:NDbBOMJD1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYkb3P8H=U=Q?:8XA<3cCA3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1777481034
+8C:/intelFPGA_lite/LABSTUFF/midterm/baseline_c5gx.v
+FC:/intelFPGA_lite/LABSTUFF/midterm/baseline_c5gx.v
+!i122 0
+L0 38 151
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1777481399.000000
+!s107 C:/intelFPGA_lite/LABSTUFF/midterm/baseline_c5gx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/LABSTUFF/midterm|C:/intelFPGA_lite/LABSTUFF/midterm/baseline_c5gx.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/intelFPGA_lite/LABSTUFF/midterm
+Z8 tCvgOpt 0
+vclock_divider
+Z9 !s110 1777481400
+!i10b 1
+!s100 TRlT?[_V?PYde3O^bY?U40
+R2
+IIDFo@J`z5bC;R6FMP7gio2
+R3
+R0
+w1777447335
+8C:/intelFPGA_lite/LABSTUFF/midterm/clock_divider.v
+FC:/intelFPGA_lite/LABSTUFF/midterm/clock_divider.v
+!i122 5
+L0 1 22
+R4
+r1
+!s85 0
+31
+Z10 !s108 1777481400.000000
+!s107 C:/intelFPGA_lite/LABSTUFF/midterm/clock_divider.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/LABSTUFF/midterm|C:/intelFPGA_lite/LABSTUFF/midterm/clock_divider.v|
+!i113 1
+R6
+R7
+R8
+vcounter
+R1
+!i10b 1
+!s100 [WRW>2`Y21RUfXaWP>]1L0
+R2
+IVU3fUENoD4USoQ1N^YB>^3
+R3
+R0
+w1777384712
+8C:/intelFPGA_lite/LABSTUFF/midterm/counter.v
+FC:/intelFPGA_lite/LABSTUFF/midterm/counter.v
+!i122 2
+L0 1 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/intelFPGA_lite/LABSTUFF/midterm/counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/LABSTUFF/midterm|C:/intelFPGA_lite/LABSTUFF/midterm/counter.v|
+!i113 1
+R6
+R7
+R8
+vreg8
+R9
+!i10b 1
+!s100 4^m0LF5UIBL^dab84`Y@_2
+R2
+IlV?BJ9`E8PVK_;dEGn>:`2
+R3
+R0
+w1777392054
+8C:/intelFPGA_lite/LABSTUFF/midterm/reg8.v
+FC:/intelFPGA_lite/LABSTUFF/midterm/reg8.v
+!i122 3
+L0 1 16
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/intelFPGA_lite/LABSTUFF/midterm/reg8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/LABSTUFF/midterm|C:/intelFPGA_lite/LABSTUFF/midterm/reg8.v|
+!i113 1
+R6
+R7
+R8
+vrom_3x8
+R1
+!i10b 1
+!s100 dSm7958BFolJSZ6VomUTU3
+R2
+ILi>eiZF0kXWcJ=Sf[4cak2
+R3
+R0
+w1777384536
+8C:/intelFPGA_lite/LABSTUFF/midterm/rom_3x8.v
+FC:/intelFPGA_lite/LABSTUFF/midterm/rom_3x8.v
+!i122 1
+L0 1 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/intelFPGA_lite/LABSTUFF/midterm/rom_3x8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/LABSTUFF/midterm|C:/intelFPGA_lite/LABSTUFF/midterm/rom_3x8.v|
+!i113 1
+R6
+R7
+R8
+vtop_module
+R9
+!i10b 1
+!s100 :JTk2f8f<z[QPSXmP`b@=3
+R2
+I:jLBQ5jQFjXZ[Z>beQ8An0
+R3
+R0
+w1777481148
+8C:/intelFPGA_lite/LABSTUFF/midterm/top_module.v
+FC:/intelFPGA_lite/LABSTUFF/midterm/top_module.v
+!i122 4
+L0 1 36
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/intelFPGA_lite/LABSTUFF/midterm/top_module.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/LABSTUFF/midterm|C:/intelFPGA_lite/LABSTUFF/midterm/top_module.v|
+!i113 1
+R6
+R7
+R8
