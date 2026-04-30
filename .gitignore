@@ -36,7 +36,15 @@ work/
 *.jdi
 *.sof
 *.pof
-
+*.qdf
+*.qws
+*qsf
+*.qpf
+#backup
+*.bak
+*.txt
+#json
+*.json
 # Logs
 *.log
 transcript
