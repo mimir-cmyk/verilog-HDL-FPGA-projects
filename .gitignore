@@ -21,3 +21,34 @@ cov*/
 transcript*
 sc_dpiheader.h
 vsim.dbg
+# Quartus generated folders
+db/
+incremental_db/
+output_files/
+simulation/modelsim/
+work/
+
+# Quartus files
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.sof
+*.pof
+*.qdf
+*.qws
+*qsf
+*.qpf
+#backup
+*.bak
+*.txt
+#json
+*.json
+# Logs
+*.log
+transcript
+
+# OS files
+.DS_Store
+Thumbs.db
